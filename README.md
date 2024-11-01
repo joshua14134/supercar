@@ -65,7 +65,7 @@ Here are some screenshots of the application:
 ![Admin Dashboard](admin_dashboard.png)
 *Admin Dashboard for Managing Products*
 
-![Login Page](login.png)
+![Login Page](Login_Page.png)
 *User Login Page*
 
 ## File Structure
