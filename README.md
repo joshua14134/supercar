@@ -56,7 +56,7 @@ This project is a web application for selling supercars and accessories, providi
 ## Images
 Here are some screenshots of the application:
 
-![Homepage](homepage.png)
+![Homepage](Homepage.png)
 *Homepage of the Supercar Selling Website*
 
 ![Product Page](product_page.png)
