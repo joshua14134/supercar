@@ -1,12 +1,3 @@
-To add images to your README file, you can include them using Markdown syntax. Here's how you can modify the existing README to include images:
-
-1. **Add a section for images.** This can be done after the project description or features section.
-2. **Include image files in your repository.** Make sure the images are stored in a directory (e.g., `images/`) within your repository.
-
-Here's how you can structure the updated README with image references:
-
----
-
 # Supercar and Accessories Selling Website
 
 ## Table of Contents
@@ -71,8 +62,11 @@ Here are some screenshots of the application:
 ![Product Page](product_page.png)
 *Product Listing Page*
 
-![Admin Dashboard](admin_dashboard.jpg)
+![Admin Dashboard](admin_dashboard.png)
 *Admin Dashboard for Managing Products*
+
+![Login Page](login.png)
+*User Login Page*
 
 ## File Structure
 ```
